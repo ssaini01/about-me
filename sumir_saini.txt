@@ -1,7 +1,0 @@
-Hello,
-
-My name is Sumir. I'm a new engineer on the AppExchange Team. 
-
-I am learning GIT.
-
-I like elephants.
