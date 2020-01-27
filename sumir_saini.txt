@@ -4,6 +4,6 @@ My name is Sumir. I'm a new engineer on the AppExchange Team.
 
 I am learning GIT.
 
-My favorite color is seafoam.
+My favorite color is seafoam green.
 
 Copyright: Sumir Saini
