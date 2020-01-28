@@ -1,9 +1,9 @@
 Hello,
 
-My name is Sumir. I'm a new engineer on the AppExchange Team. 
+My name is SUMIR. I'm a new engineer on the AppExchange Team. 
 
 I am learning GIT.
 
 My favorite color is seafoam green.
 
-Copyright: Sumir Saini
+Copyright: SUMIR SAINI
